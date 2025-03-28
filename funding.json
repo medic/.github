@@ -11,36 +11,55 @@
         "url": "https://github.com/medic"
       }
     },
-    "projects": [{
-      "guid": "cht",
-      "name": "Community Health Toolkit (CHT)",
-      "description": "The Community Health Toolkit (CHT) is a open-source project led by a group of organizations who have come together to support the development of digital health initiatives in the hardest-to-reach areas. It provides a collection of open source technologies and open access design, technical, and implementer resources that help you build and deploy digital tools for community health. Together, we envision a world where healthcare is of the highest attainable quality, equitable, accessible, and delivered by people who are trusted in their communities. The Community Health Toolkit is a Digital Public Good.",
-      "webpageUrl": {
-        "url": "https://communityhealthtoolkit.org/"
-      },
-      "repositoryUrl": {
-        "url": "https://github.com/medic"
-      },
-      "licenses": ["spdx:AGPL-3.0-only"],
-      "tags": ["health", "medical", "mobile", "data", "digital-health", "healthcare", "digital-public-good", "community-health"]
-    }],
+    "projects": [
+      {
+        "guid": "cht",
+        "name": "Community Health Toolkit (CHT)",
+        "description": "The Community Health Toolkit (CHT) is a open-source project led by a group of organizations who have come together to support the development of digital health initiatives in the hardest-to-reach areas. It provides a collection of open source technologies and open access design, technical, and implementer resources that help you build and deploy digital tools for community health. Together, we envision a world where healthcare is of the highest attainable quality, equitable, accessible, and delivered by people who are trusted in their communities. The Community Health Toolkit is a Digital Public Good.",
+        "webpageUrl": {
+          "url": "https://github.com/medic/.github"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/medic"
+        },
+        "licenses": [
+          "spdx:AGPL-3.0-only"
+        ],
+        "tags": [
+          "health",
+          "medical",
+          "mobile",
+          "data",
+          "digital-health",
+          "healthcare",
+          "digital-public-good",
+          "community-health"
+        ]
+      }
+    ],
     "funding": {
-      "channels": [{
-        "guid": "donate",
-        "type": "other",
-        "address": "https://medic.org/donate/",
-        "description": "Donation"
-      }],
-      "plans": [{
-        "guid": "support",
-        "status": "active",
-        "name": "Community Health Toolkit Support",
-        "description": "Pay anything you wish to show your support for the CHT. Thank you for contributing to achieving health for all in the digital age!",
-        "amount": 0,
-        "currency": "USD",
-        "frequency": "one-time",
-        "channels": ["donate"]
-      }]
+      "channels": [
+        {
+          "guid": "donate",
+          "type": "other",
+          "address": "https://medic.org/donate/",
+          "description": "Donation"
+        }
+      ],
+      "plans": [
+        {
+          "guid": "support",
+          "status": "active",
+          "name": "Community Health Toolkit Support",
+          "description": "Pay anything you wish to show your support for the CHT. Thank you for contributing to achieving health for all in the digital age!",
+          "amount": 0,
+          "currency": "USD",
+          "frequency": "one-time",
+          "channels": [
+            "donate"
+          ]
+        }
+      ],
+      "history": null
     }
   }
-  
