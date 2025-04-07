@@ -7,4 +7,17 @@
 
 The Community Health Toolkit (CHT), a [Digital Public Good](https://www.digitalpublicgoods.net/registry), is collection of open source technologies and open access design, technical, and implementer resources that help you build and deploy digital tools for community health.
 
-[Join the CHT Community discussions!](https://forum.communityhealthtoolkit.org/)
+## Need help or just want to say hi?
+[Join the discussions on the CHT Community Forum!](https://forum.communityhealthtoolkit.org/)
+
+## Adopters
+Explore [real-world use cases](https://docs.communityhealthtoolkit.org/exploring/) of programs across different countries and scenarios that are using the CHT.
+
+## Community Meetings
+Subscribe to the [CHT Calendar](https://calendar.google.com/calendar/u/0/r?cid=c_f39349b2aa6448b417e38084d5b7bb28bf3519fe588efff33e1ac638bd890620@group.calendar.google.com) and have access to all the meetings in the CHT community in a single location.
+
+## Roadmap
+The [CHT Roadmap](https://github.com/orgs/medic/projects/112) provides information about ongoing CHT initiatives, as well as squad tracking.
+
+## CHT Core Releases
+Checkout the [versions](https://docs.communityhealthtoolkit.org/core/releases/) currently supported, dependencies, and release notes for the CHT Core Framework.
