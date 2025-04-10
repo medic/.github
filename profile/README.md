@@ -11,7 +11,7 @@ The Community Health Toolkit (CHT), a [Digital Public Good](https://www.digitalp
 [Join the discussions on the CHT Community Forum!](https://forum.communityhealthtoolkit.org/)
 
 ## Adopters
-Explore [real-world use cases](https://docs.communityhealthtoolkit.org/exploring/) of programs across different countries and scenarios that are using the CHT.
+Explore [real-world use cases](https://docs.communityhealthtoolkit.org/exploring/) of programs across different countries and reference applications that are using the CHT.
 
 ## Community Meetings
 Subscribe to the [CHT Calendar](https://calendar.google.com/calendar/u/0/r?cid=c_f39349b2aa6448b417e38084d5b7bb28bf3519fe588efff33e1ac638bd890620@group.calendar.google.com) and have access to all the meetings in the CHT community in a single location.
