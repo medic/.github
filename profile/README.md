@@ -7,17 +7,20 @@
 
 The Community Health Toolkit (CHT), a [Digital Public Good](https://www.digitalpublicgoods.net/registry), is collection of open source technologies and open access design, technical, and implementer resources that help you build and deploy digital tools for community health.
 
-## Need help or just want to say hi?
+## Need help or want to say hi?
 [Join the discussions on the CHT Community Forum!](https://forum.communityhealthtoolkit.org/)
 
+## Get Involved
+Learn [how to get involved](https://docs.communityhealthtoolkit.org/community/) and contribute to the CHT.
+
 ## Adopters
-Explore [real-world use cases](https://docs.communityhealthtoolkit.org/exploring/) of programs across different countries and reference applications that are using the CHT.
+Explore [real-world use cases](https://docs.communityhealthtoolkit.org/exploring/) of programs across different countries and reference applications using the CHT.
 
 ## Community Meetings
-Subscribe to the [CHT Calendar](https://calendar.google.com/calendar/u/0/r?cid=c_f39349b2aa6448b417e38084d5b7bb28bf3519fe588efff33e1ac638bd890620@group.calendar.google.com) and have access to all the meetings in the CHT community in a single location.
+Subscribe to the [CHT Community Calls](https://forum.communityhealthtoolkit.org/c/community/community-calls/33) and receive updates about all the events in the CHT community.
 
 ## Roadmap
-The [CHT Roadmap](https://github.com/orgs/medic/projects/112) provides information about ongoing CHT initiatives, as well as squad tracking.
+The [CHT Roadmap](https://github.com/orgs/medic/projects/112) provides information about ongoing CHT initiatives and squad tracking.
 
 ## CHT Core Releases
-Checkout the [versions](https://docs.communityhealthtoolkit.org/core/releases/) currently supported, dependencies, and release notes for the CHT Core Framework.
+Check out the [versions](https://docs.communityhealthtoolkit.org/core/releases/) currently supported, dependencies, and release notes for the CHT Core Framework.
