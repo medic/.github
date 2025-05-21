@@ -14,10 +14,10 @@ The Community Health Toolkit (CHT), a [Digital Public Good](https://www.digitalp
 Learn [how to get involved](https://docs.communityhealthtoolkit.org/community/) and contribute to the CHT.
 
 ## Adopters
-Explore [real-world use cases](https://docs.communityhealthtoolkit.org/exploring/) of programs across different countries and reference applications using the CHT.
+Explore [real-world use cases](https://docs.communityhealthtoolkit.org/reference-apps/) of programs across different countries and reference applications using the CHT.
 
 ## Community Meetings
-Subscribe to the [CHT Community Calls](https://forum.communityhealthtoolkit.org/c/community/community-calls/33) and receive updates about all the events in the CHT community.
+Subscribe to the [CHT Community Calls](https://docs.communityhealthtoolkit.org/community/events/) and receive updates about all the events in the CHT community.
 
 ## Roadmap
 The [CHT Roadmap](https://github.com/orgs/medic/projects/112) provides information about ongoing CHT initiatives and squad tracking.
