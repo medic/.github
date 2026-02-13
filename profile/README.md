@@ -26,4 +26,4 @@ The [CHT Roadmap](https://github.com/orgs/medic/projects/112) provides informati
 Check out the [versions](https://docs.communityhealthtoolkit.org/core/releases/) currently supported, dependencies, and release notes for the CHT Core Framework.
 
 ## 🤖 CHT & AI
-Explore [tools](https://docs.communityhealthtoolkit.org/ai/) that enhance the CHT for agentic assistance.
+Explore AI-powered [tools](https://docs.communityhealthtoolkit.org/ai/) that enhance the CHT.
